@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proyecto1", "Proyecto1\Proyecto1.csproj", "{86ADC635-FAA5-47C6-8FE2-EA01C3E9F3F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca1", "Biblioteca1\Biblioteca1.csproj", "{E953118A-88A9-4048-909F-B0BFAAD2AFE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Form1", "Form1\Form1.csproj", "{00C5F375-3E07-4FF4-A2A4-E941FDC03DD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86ADC635-FAA5-47C6-8FE2-EA01C3E9F3F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86ADC635-FAA5-47C6-8FE2-EA01C3E9F3F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86ADC635-FAA5-47C6-8FE2-EA01C3E9F3F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86ADC635-FAA5-47C6-8FE2-EA01C3E9F3F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E953118A-88A9-4048-909F-B0BFAAD2AFE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E953118A-88A9-4048-909F-B0BFAAD2AFE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E953118A-88A9-4048-909F-B0BFAAD2AFE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E953118A-88A9-4048-909F-B0BFAAD2AFE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00C5F375-3E07-4FF4-A2A4-E941FDC03DD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00C5F375-3E07-4FF4-A2A4-E941FDC03DD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00C5F375-3E07-4FF4-A2A4-E941FDC03DD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00C5F375-3E07-4FF4-A2A4-E941FDC03DD8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E5C0A3D-079A-406A-8739-2363B0072F87}
+	EndGlobalSection
+EndGlobal
